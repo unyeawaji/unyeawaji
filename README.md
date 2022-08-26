@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**unyeawaji/unyeawaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on forex automated bot
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on block chain tech
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: simonunyeawaji2017@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
